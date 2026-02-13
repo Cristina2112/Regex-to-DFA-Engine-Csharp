@@ -1,6 +1,6 @@
 # Regex to DFA Engine
 
-![.NET](https://img.shields.io/badge/.NET-8.0-purple) ![C#](https://img.shields.io/badge/Language-C%23-blue) ![License](https://img.shields.io/badge/License-MIT-green)
+![.NET](https://img.shields.io/badge/.NET-8.0-purple) ![C#](https://img.shields.io/badge/Language-C%23-blue) 
 
 A robust **Console Application** built with **C# and .NET 8.0** that visualizes the complete pipeline of compiling Regular Expressions into Deterministic Finite Automata (DFA).
 
