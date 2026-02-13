@@ -6,7 +6,7 @@ A robust **Console Application** built with **C# and .NET 8.0** that visualizes 
 
 This project was developed as part of the **Formal Languages and Compilers (LFC)** curriculum to demonstrate advanced algorithm implementation and data structure manipulation.
 
-## 🚀 Key Features
+##  Key Features
 
 * **Regex Parsing:** Converts standard regular expressions into **Postfix notation** (Reverse Polish Notation) for easier processing.
 * **Automata Conversion:**
@@ -25,7 +25,7 @@ The application is built using modern C# practices and focuses on modular archit
 * **Object-Oriented Design:** * `NFA` class: Handles epsilon-transitions and non-deterministic paths.
     * `DeterministicFiniteAutomaton` class: Handles the final optimized state machine logic.
 
-## 💻 How to Run
+##  How to Run
 
 1.  Clone the repository:
     ```bash
@@ -35,7 +35,7 @@ The application is built using modern C# practices and focuses on modular archit
 3.  Build and Run the project (F5).
 4.  Follow the on-screen menu to input your Regex (e.g., `(a|b)*abb`).
 
-## 📂 Project Structure
+##  Project Structure
 
 * `RegexToDFA.cs` - Core logic for parsing and conversion algorithms.
 * `NFA.cs` - Data structure for Nondeterministic Finite Automaton.
