@@ -29,7 +29,7 @@ The application is built using modern C# practices and focuses on modular archit
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/MoldovanPaulll/Regex-to-DFA-Engine.git](https://github.com/MoldovanPaulll/Regex-to-DFA-Engine.git)
+    git clone [https://github.com/Cristina2112/Regex-to-DFA-Engine-Csharp.git](https://github.com/Cristina2112/Regex-to-DFA-Engine-Csharp.git)
     ```
 2.  Open the `.sln` file in **Visual Studio 2022**.
 3.  Build and Run the project (F5).
